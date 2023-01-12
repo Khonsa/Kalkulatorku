@@ -2,5 +2,4 @@
 
 Made with bootstrap 5
 
-![image.png]( {https://raw.githubusercontent.com/Khonsa/Kalkulatorku/7f962d4ac0a5b7c0b4923beb16de16102d6e5c56/Screenshot%20(560).png
-} )
+![app](https://user-images.githubusercontent.com/65793636/211982860-df2ed1d5-2b95-453b-ac63-9a7b29d9f9e9.png)
