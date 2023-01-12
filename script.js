@@ -22,6 +22,10 @@ function h() {
 
 }
 
+function persen(p) {
+    nama.value += p + 100
+}
+
 function per(p) {
     nama.value += p
     let pjg = nama.value.length
@@ -33,8 +37,4 @@ function per(p) {
     let tot = parseFloat(temp.substr(0, val.length - 2), 10) / 100;
     console.log(tot)
 
-}
-
-function getPercentage(val) {
-    return parseFloat(val.substr(0, val.length - 1), 10) / 100;
 }
