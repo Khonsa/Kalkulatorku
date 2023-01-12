@@ -25,16 +25,3 @@ function h() {
 function persen(p) {
     nama.value += p + 100
 }
-
-function per(p) {
-    nama.value += p
-    let pjg = nama.value.length
-
-    const temp = []
-    for (let i = pjg - 2; i < pjg; i++) {
-        temp.push(nama.value[i])
-    }
-    let tot = parseFloat(temp.substr(0, val.length - 2), 10) / 100;
-    console.log(tot)
-
-}
